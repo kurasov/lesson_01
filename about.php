@@ -7,7 +7,7 @@
     <body>
 		<?php
 		$name = 'Кирилл';
-		$age = 32;
+		$age = '32';
 		$mail = 'kurasov.code@gmail.com';
 		$city = 'Москва';
 		$about = 'что-то о себе'; ?>
